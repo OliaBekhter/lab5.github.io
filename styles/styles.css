@@ -1,0 +1,22 @@
+html, body{
+        height:100%;
+    }
+    
+    .container{
+        display: flex;
+        align-items: flex-start;
+    }
+    
+    .box{
+        display: flex;
+        margin:10px auto;
+        flex-direction: column;
+    }
+    
+    .upper{
+        margin:auto;
+    }
+    .bottom{
+        margin: 8px auto;
+    }
+    
